@@ -1,3 +1,2 @@
 # Running-Game
-This is a Running Game
-CLickSixCubeTest.exe to start the game
+Click SixCubeTest.exe to start the game
